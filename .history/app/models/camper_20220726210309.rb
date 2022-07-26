@@ -1,0 +1,3 @@
+class Camper < ApplicationRecord
+    
+end

@@ -1,0 +1,3 @@
+class CampersController < ApplicationController
+    
+end
